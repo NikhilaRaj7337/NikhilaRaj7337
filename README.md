@@ -59,7 +59,7 @@ Two-Tower Retrieval • Embeddings • FAISS • Learning-to-Rank • LambdaMART
 Generative AI
 LLMs • RAG • LLM Agents • Hugging Face Transformers • LangChain • Prompt Engineering • Fine-tuning • Vector Search
 
-ML Engineering & MLOps
+ML Engineering & MLOps <br>
 FastAPI • Docker • Kubernetes • Jenkins • Git • GitHub Actions • MLflow • CI/CD • Model Deployment
 
 Data & Cloud
