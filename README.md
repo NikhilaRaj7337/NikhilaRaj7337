@@ -72,7 +72,7 @@ PySpark • NumPy • SciPy • AWS • Azure ML • OpenCV • Linux
 
 ##RAG Research Assistant
 A document Q&A system built with LangChain + Gemini + Qdrant, with hybrid retrieval (BM25 + dense embeddings, fused via Reciprocal Rank Fusion), multi-turn conversation memory, a FastAPI backend, a Streamlit frontend, Docker-based local deployment, and a RAGAS-based evaluation harness measuring faithfulness, relevancy, and retrieval precision/recall separately.  
-**Tech:** LangChain, Gemini, Qdrant, Hybrid Retrieval (BM25 + Dense Embeddings, RRF), FastAPI, Streamlit, Docker, RAGAS Evaluation 
+**Tech:** LangChain, Gemini, Qdrant, Hybrid Retrieval (BM25 + Dense Embeddings, RRF), FastAPI, Streamlit, Docker, RAGAS Evaluation <br>
 **Result:**  Average answer relevance is 88% and Hallucination rate (grounded queries) is 0% <br>
 🔗 https://github.com/NikhilaRaj7337/RAG-Research-Assistant
 
