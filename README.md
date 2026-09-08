@@ -21,9 +21,9 @@ LinkedIn: https://www.linkedin.com/in/nikhila-raj-nitta-527614211/
 
 | Year | Project | Tech | Links |
 |-----|------|------|------|
-| 2026 | AI Systems for Enterprise Computer Vision | Python, Computer Vision, OCR, RAG pipelines, LLM applications | Work @ Boehringer Ingelheim |
 | 2026 | LLM Powered Research Assistant with RAG | LangChain, Gemini, Qdrant, Hybrid Retrieval (BM25 + Dense Embeddings, RRF), FastAPI, Streamlit, Docker, RAGAS Evaluation | GitHub |
-| 2026 | SmartStay – Two-Stage Recommendation System | PyTorch, FAISS, LightGBM (LambdaMART), FastAPI, Docker, MLflow | [GitHub] |
+| 2026 | SmartStay – Two-Stage Recommendation System | PyTorch, FAISS, LightGBM (LambdaMART), FastAPI, Docker, MLflow | GitHub |
+| 2026 | AI Systems for Enterprise Computer Vision | Python, Computer Vision, OCR, RAG pipelines, LLM applications | Work @ Boehringer Ingelheim |
 | 2026 | UGA Nutrition AI App | Computer Vision, PyTorch, Streamlit, Image Classification | GitHub |
 | 2025 | Rain Removal using Deep Learning | PyTorch, CNNs, Image Decomposition, Computer Vision | GitHub |
 | 2025 | Intelligent Traffic Optimization using LSTM & RL | TensorFlow, Keras, Reinforcement Learning, Time-Series Modeling | GitHub |
