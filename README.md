@@ -21,7 +21,7 @@ LinkedIn: https://www.linkedin.com/in/nikhila-raj-nitta-527614211/
 
 | Year | Project | Tech | Links |
 |-----|------|------|------|
-| 2026 | LLM Powered Research Assistant with RAG | LangChain, Gemini, Qdrant, Hybrid Retrieval (BM25 + Dense Embeddings, RRF), FastAPI, Streamlit, Docker, RAGAS Evaluation | GitHub |
+| 2026 | RAG Research Assistant | LangChain, Gemini, Qdrant, Hybrid Retrieval (BM25 + Dense Embeddings, RRF), FastAPI, Streamlit, Docker, RAGAS Evaluation | GitHub |
 | 2026 | SmartStay – Two-Stage Recommendation System | PyTorch, FAISS, LightGBM (LambdaMART), FastAPI, Docker, MLflow | GitHub |
 | 2026 | AI Systems for Enterprise Computer Vision | Python, Computer Vision, OCR, RAG pipelines, LLM applications | Work @ Boehringer Ingelheim |
 | 2026 | UGA Nutrition AI App | Computer Vision, PyTorch, Streamlit, Image Classification | GitHub |
@@ -50,31 +50,31 @@ DOI: https://doi.org/10.21203/rs.3.rs-6559186/v1
 Programming  
 Python • C • C++ • Java • R • MATLAB • SQL  
 
-Machine Learning  
-Deep Learning • Neural Networks • NLP • Predictive Modeling • Feature Engineering • Recommendation Systems • Generative AI  
+Machine Learning
+PyTorch • TensorFlow • Scikit-learn • Deep Learning • Predictive Modeling • Feature Engineering • Model Evaluation • Recommendation Systems
 
-Frameworks  
-PyTorch • TensorFlow • Keras • Scikit-learn • Pandas • NumPy • OpenCV  
+Recommendation & Search
+Two-Tower Retrieval • Embeddings • FAISS • Learning-to-Rank • LambdaMART • Ranking • Personalization
 
-Tools  
-Linux • Git • Jupyter • Google Colab • Visual Studio
+Generative AI
+LLMs • RAG • LLM Agents • Hugging Face Transformers • LangChain • Prompt Engineering • Fine-tuning • Vector Search
 
-<br>
-<br>
+ML Engineering & MLOps
+FastAPI • Docker • Kubernetes • Jenkins • Git • GitHub Actions • MLflow • CI/CD • Model Deployment
 
-## 🚧 Currently Working On
-• Neural Architecture Search for Audio Classification  
-• Machine Learning for Brain Imaging Data (fNIRS / fMRI)  
-• AI-powered computer vision systems  
+Data & Cloud
+PySpark • NumPy • SciPy • AWS • Azure ML • OpenCV • Linux
+
 <br>
 <br>
 
 ## 🧪 Featured AI Systems
-### 🌧 Rain Removal using Deep Learning
-End-to-end computer vision system for removing rain streak artifacts from images using CNN-based architectures and guided image decomposition.  
-**Tech:** PyTorch, OpenCV, CNNs  
-**Result:** 0.77 SSIM | 16.5 dB PSNR  
-🔗 https://github.com/yourusername/rain-removal-deep-learning
+
+##RAG Research Assistant
+A document Q&A system built with LangChain + Gemini + Qdrant, with hybrid retrieval (BM25 + dense embeddings, fused via Reciprocal Rank Fusion), multi-turn conversation memory, a FastAPI backend, a Streamlit frontend, Docker-based local deployment, and a RAGAS-based evaluation harness measuring faithfulness, relevancy, and retrieval precision/recall separately.  
+**Tech:** LangChain, Gemini, Qdrant, Hybrid Retrieval (BM25 + Dense Embeddings, RRF), FastAPI, Streamlit, Docker, RAGAS Evaluation 
+**Result:**  Average answer relevance is 88% and Hallucination rate (grounded queries) is 0% 
+🔗 https://github.com/NikhilaRaj7337/RAG-Research-Assistant
 
 ---
 
