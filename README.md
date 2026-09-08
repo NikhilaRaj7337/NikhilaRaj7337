@@ -50,19 +50,19 @@ DOI: https://doi.org/10.21203/rs.3.rs-6559186/v1
 Programming  
 Python • C • C++ • Java • R • MATLAB • SQL  
 
-Machine Learning
+Machine Learning <br>
 PyTorch • TensorFlow • Scikit-learn • Deep Learning • Predictive Modeling • Feature Engineering • Model Evaluation • Recommendation Systems
 
-Recommendation & Search
+Recommendation & Search <br>
 Two-Tower Retrieval • Embeddings • FAISS • Learning-to-Rank • LambdaMART • Ranking • Personalization
 
-Generative AI
+Generative AI <br>
 LLMs • RAG • LLM Agents • Hugging Face Transformers • LangChain • Prompt Engineering • Fine-tuning • Vector Search
 
 ML Engineering & MLOps <br>
 FastAPI • Docker • Kubernetes • Jenkins • Git • GitHub Actions • MLflow • CI/CD • Model Deployment
 
-Data & Cloud
+Data & Cloud <br>
 PySpark • NumPy • SciPy • AWS • Azure ML • OpenCV • Linux
 
 <br>
@@ -73,7 +73,7 @@ PySpark • NumPy • SciPy • AWS • Azure ML • OpenCV • Linux
 ##RAG Research Assistant
 A document Q&A system built with LangChain + Gemini + Qdrant, with hybrid retrieval (BM25 + dense embeddings, fused via Reciprocal Rank Fusion), multi-turn conversation memory, a FastAPI backend, a Streamlit frontend, Docker-based local deployment, and a RAGAS-based evaluation harness measuring faithfulness, relevancy, and retrieval precision/recall separately.  
 **Tech:** LangChain, Gemini, Qdrant, Hybrid Retrieval (BM25 + Dense Embeddings, RRF), FastAPI, Streamlit, Docker, RAGAS Evaluation 
-**Result:**  Average answer relevance is 88% and Hallucination rate (grounded queries) is 0% 
+**Result:**  Average answer relevance is 88% and Hallucination rate (grounded queries) is 0% <br>
 🔗 https://github.com/NikhilaRaj7337/RAG-Research-Assistant
 
 ---
